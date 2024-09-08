@@ -1,0 +1,18 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.swp
+
+# Ignore files from IDEs
+.vs/
+*.csproj.user
+
+# Ignore environment-specific files
+.env
+
+# Ignore log files
+*.log
