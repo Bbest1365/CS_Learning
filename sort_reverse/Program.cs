@@ -49,15 +49,25 @@
 // }
 
 //
-string value = "abc123";
-char[] valueArray = value.ToCharArray();
-Array.Reverse(valueArray);
-// string result = new string(valueArray);
-string result = String.Join(",", valueArray);
-Console.WriteLine(result);
+// string value = "abc123";
+// char[] valueArray = value.ToCharArray();
+// Array.Reverse(valueArray);
+// // string result = new string(valueArray);
+// string result = String.Join(",", valueArray);
+// Console.WriteLine(result);
 
-string[] items = result.Split(',');
+
+string pangram = "The quick brown fox jumps over the lazy dog";
+char[] valueArray = pangram.ToCharArray();
+// Array.Reverse(valueArray);
+// Console.WriteLine(valueArray);
+string result = new string(valueArray);
+string[] items = result.Split(' ');
+// Console.WriteLine(items);
 foreach (string item in items)
 {
-    Console.WriteLine(item);
+    char[] charrarray = item.ToCharArray();
+    Array.Reverse(charrarray);
+    Console.WriteLine(charrarray);
+    charrarray +=item;
 }
