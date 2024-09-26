@@ -78,3 +78,18 @@
 // Console.WriteLine(result);
 
 string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] message = orderStream.Split(',');
+Array.Sort(message);
+foreach (var item in message)
+{
+    if (item.Length == 4)
+    {
+        Console.WriteLine(item);
+    }
+    else
+    {
+        Console.WriteLine(item+ "\t- Error");
+    }
+}
+
+Console.WriteLine(message);
