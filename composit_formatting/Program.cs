@@ -58,7 +58,17 @@
 
 
 
-string first = "Hello";
-string second = "World";
-string result = string.Format("{0} {1}!", first, second);
-Console.WriteLine(result);
+// string first = "Hello";
+// string second = "World";
+// string result = string.Format("{0} {1}!", first, second);
+// Console.WriteLine(result);
+
+string input = "Pad this";  //Padleft
+ Console.WriteLine(input.PadLeft(20));
+
+ Console.WriteLine(input.PadLeft(12, '-'));
+ Console.WriteLine(input.PadRight(12, '-'));
+
+ string paymentId = "769C";
+ var formattedLine = paymentId.PadRight(6);
+ Console.WriteLine(formattedLine);
