@@ -1,0 +1,15 @@
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\bin\Debug\net8.0\string_index_of.exe
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\bin\Debug\net8.0\string_index_of.deps.json
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\bin\Debug\net8.0\string_index_of.runtimeconfig.json
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\bin\Debug\net8.0\string_index_of.dll
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\bin\Debug\net8.0\string_index_of.pdb
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.AssemblyInfoInputs.cache
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.AssemblyInfo.cs
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.csproj.CoreCompileInputs.cache
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.dll
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\refint\string_index_of.dll
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.pdb
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.genruntimeconfig.cache
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\ref\string_index_of.dll
+C:\Users\Bbest\Desktop\CS_Learning\string_index_of\obj\Debug\net8.0\string_index_of.sourcelink.json
